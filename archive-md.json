@@ -3,12 +3,10 @@
   "description": "Archive.org hosted Sega Mega Drive",
   "games": [
    {
-      "fileSize": "3.9MiB",
+     "title": "3 Ninjas Kick Back (USA)",
       "uris": [
         "https://archive.org/download/nointro.md/3%20Ninjas%20Kick%20Back%20%28USA%29.7z"
       ],
-     "title": "3 Ninjas Kick Back (USA)",
-      "uploadDate": "2026-03-12",
       "console": "genesis"
     }
   ]
