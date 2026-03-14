@@ -1,22 +1,22 @@
 {
   "console": {
-    "name": "Nintendo Wii U",
-    "slug": "wiiu",
+    "name": "Arcade",
+    "slug": "arcade",
     "logoUrl": "https://www.screenscraper.fr/image.php?plateformid=18&media=wheel&region=wor&num=&version=&maxwidth=373&maxheight=200",
     "description": "The Nintendo Wii U is an eighth generation (2012–present) home video game console developed and distributed by Nintendo. It was released on November 18, 2012 in North America at a retail price of $299. The console was later...  See more",
     "logo": "https://www.screenscraper.fr/image.php?plateformid=18&media=wheel&region=wor&num=&version=&maxwidth=373&maxheight=200"
   },
-  "sourceName": "Thegamesdb wiiu catalog",
+  "sourceName": "Thegamesdb arcade catalog",
   "games": [
     {
-      "slug": "wiiu-007legends",
+      "slug": "arcade-007legends",
       "name": "007 Legends",
       "developer": "",
       "publisher": "",
       "releaseDate": "11-12-2012",
       "rating": "3.17",
       "detailsUrl": "https://gamesdb.launchbox-app.com/games/details/14440-007-legends",
-      "console": "wiiu",
+      "console": "arcade",
       "portrait": "https://images.launchbox-app.com/57c734aa-096a-4a98-9f71-a3e7faa4ea4e.jpg",
       "logo": null,
       "titleImage": null,
