@@ -1,0 +1,29 @@
+{
+  "console": {
+    "name": "Arcade",
+    "slug": "arcade",
+    "logoUrl": "https://www.screenscraper.fr/image.php?plateformid=75&media=wheel&region=wor&num=&version=&maxwidth=373&maxheight=200",
+    "description": "Arcade games based off of MAME"
+	"logo:" "https://www.screenscraper.fr/image.php?plateformid=75&media=wheel&region=wor&num=&version=&maxwidth=373&maxheight=200"
+  },
+  "sourceName": "Arcadeitalia MAME catalog",
+  "games": [
+    {
+      "name": "1945k III",
+      "developer": "Promat",
+      "publisher": "Oriental Soft",
+      "releaseDate": "01-01-2000",
+      "rating": "3.87",
+      "categories":["Shooter"]
+      "detailsUrl": "https://gamesdb.launchbox-app.com/games/details/2309-1945k-iii",
+      "console": "arcade",
+      "portrait": "https://images.launchbox-app.com//a5f8e909-92ae-4a9c-be1d-d53e939f67c9.jpg",
+      "logo": "",
+      "titleImage": "",
+      "gameplayCovers": [
+        "https://images.launchbox-app.com//e720f1fb-ddc0-46c2-a4be-36b2682059dc.png",
+		"https://images.launchbox-app.com//406ae282-be1f-4b96-aa20-6065d013163c.png"
+      ]
+    }
+  ]
+}
