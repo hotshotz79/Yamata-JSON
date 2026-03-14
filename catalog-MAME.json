@@ -4,11 +4,12 @@
     "slug": "arcade",
     "logoUrl": "https://www.screenscraper.fr/image.php?plateformid=75&media=wheel&region=wor&num=&version=&maxwidth=373&maxheight=200",
     "description": "Arcade games based off of MAME"
-	"logo:" "https://www.screenscraper.fr/image.php?plateformid=75&media=wheel&region=wor&num=&version=&maxwidth=373&maxheight=200"
+	"logo": "https://www.screenscraper.fr/image.php?plateformid=75&media=wheel&region=wor&num=&version=&maxwidth=373&maxheight=200"
   },
   "sourceName": "Arcadeitalia MAME catalog",
   "games": [
     {
+	  "slug": "arcade",
       "name": "1945k III",
       "developer": "Promat",
       "publisher": "Oriental Soft",
